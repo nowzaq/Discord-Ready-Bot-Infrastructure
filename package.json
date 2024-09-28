@@ -1,0 +1,11 @@
+{
+  "name": "Discord-Ready-Bot-Infrastructure-by-Asrenax",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Asrenax",
+  "license": "ISC"
+}
